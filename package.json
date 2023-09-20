@@ -1,5 +1,5 @@
 {
-  "name": "@remconiggebrugge/learning-npm-the-node-package-manager-4362456",
+  "name": "now-i-am-learning-npm-the-node-package-manager",
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
